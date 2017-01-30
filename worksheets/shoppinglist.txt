@@ -1,0 +1,8 @@
+Apples     100 2.0
+Oranges    20  4.0
+Kale       500 4.0
+Oatmeal    25  1.0
+Chicken    10  5.0
+Honey      50  8.0
+Tarantulas 2   3.0
+Peanuts    300 0.5

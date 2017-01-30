@@ -1,0 +1,6 @@
+This is a file
+with several lines
+of text.
+In Python we can access
+it as a sequence of lines
+using the open function.
